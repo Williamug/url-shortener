@@ -52,7 +52,7 @@
 			                            	<td class="border border-green-600 p-2 flex">
 			                            		<span class="flex-1 px-3 bg-blue-300 hover:bg-blue-500 hover:text-white rounded mx-1"><a href="#">View</a></span>
 			                            		<span class="flex-1 px-4 bg-green-300 hover:bg-green-500 hover:text-white rounded mx-1"><a href="#">Edit</a></span>
-			                            		<span class="flex-1 px-3 bg-red-300 hover:bg-red-500 hover:text-white rounded mx-1"><button>Delete</button></span></td>
+			                            		<span class="flex-1 px-3 bg-red-300 hover:bg-red-500 hover:text-white rounded mx-1 focus:outline-none"><button>Delete</button></span></td>
 			                        	</tr>
 			                    	@endforeach
 			                	</tbody>
